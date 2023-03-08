@@ -1,0 +1,21 @@
+{
+    "lat": "17.38878595",
+    "lon": "78.46106473453146",
+    "place_id": 308775863,
+    "bbox": {
+        "southLat": "17.2931295",
+        "northLat": "17.4843058",
+        "westLon": "78.3819883",
+        "eastLon": "78.5563157"
+    },
+    "timezone_abbreviation": "IST",
+    "display_name": "Hyderabad, Telangana, India",
+    "type": "administrative",
+    "address": {
+        "state_district": "Hyderabad",
+        "state": "Telangana",
+        "ISO3166-2-lvl4": "IN-TG",
+        "country": "India",
+        "country_code": "in"
+    }
+}

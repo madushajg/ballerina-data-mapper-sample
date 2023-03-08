@@ -1,0 +1,42 @@
+{
+    "latitude": "17.38878595",
+    "longitude": "78.46106473453146",
+    "timezone": "IST",
+    "boundingbox": [
+        "17.2931295",
+        "17.4843058",
+        "78.3819883",
+        "78.5563157"
+    ],
+    "display_name": "Hyderabad, Telangana, India",
+    "weather": [
+        {
+            "date": "2023-03-10",
+            "temperature": "91.58°F",
+            "windspeed": "6.9593552 mph",
+            "sunrise": "2023-03-10T05:57",
+            "sunset": "2023-03-10T17:55"
+        },
+        {
+            "date": "2023-03-12",
+            "temperature": "91.4°F",
+            "windspeed": "8.2642343 mph",
+            "sunrise": "2023-03-12T05:55",
+            "sunset": "2023-03-12T17:56"
+        },
+        {
+            "date": "2023-03-13",
+            "temperature": "93.74°F",
+            "windspeed": "7.9535488 mph",
+            "sunrise": "2023-03-13T05:54",
+            "sunset": "2023-03-13T17:56"
+        },
+        {
+            "date": "2023-03-14",
+            "temperature": "93.74°F",
+            "windspeed": "6.2137100 mph",
+            "sunrise": "2023-03-14T05:54",
+            "sunset": "2023-03-14T17:56"
+        }
+    ]
+}
